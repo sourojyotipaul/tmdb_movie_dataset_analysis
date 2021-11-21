@@ -23,9 +23,9 @@ Another purpose is to derive meaningful insights from the dataset. To be able to
 # Observations & Findings
 * The rating of the movies are depricating over the years. In other words we can say that newer the movies are, poorer the ratings it is receiving.
 * The number of movies have increased significantly over the years. The maximum number of movies were released in the year 2011. This can happen due to various aspects,
-1.. Technological advancement
-2.. Increase in budget and profitability over the years
-3.. Rise in quality and quantity of audience and market
+> 1. Technological advancement
+> 2. Increase in budget and profitability over the years
+> 3. Rise in quality and quantity of audience and market
 * The length of movies over the years have decreased.
 * Drama is a very imortant genre, the maximum number of films are made under this very genre or category only.
 * Budget - popularity, Budget - profitability are related with eachother in a very linear fashion. Their trend is also increasing gradually. Which means increase in budget increases popularity and increase in popularity increases profitability. Hence it means they are directly proportional in nathure.
