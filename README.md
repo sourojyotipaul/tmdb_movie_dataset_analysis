@@ -8,18 +8,18 @@ The Dataset contains 5000+ movie data. Which includes some of the important feat
 The purpose of this analysis is to understand the TMDB Movie Dataset to broadly understand how the movie industry is performing over the years.
 Another purpose is to derive meaningful insights from the dataset. To be able to put up meaningful questions and come to conclusion by thoroughly analysing the and plotting the required graphs. Basically we want to perform exploratory data analysis on this dataset to be able to understand the data associated.
 # Required Files
-Dataset URL : https://www.kaggle.com/tmdb/tmdb-movie-metadata
-file : tmdb_5000_movies.csv
+* Dataset URL : https://www.kaggle.com/tmdb/tmdb-movie-metadata
+* file : tmdb_5000_movies.csv
 # Agenda or Questions
-Q1. How are old movies getting rated over time ?
-Q2. How is the industry performing over the years ?¶
-Q3. Trend for number of movies.
-Q4. Relation between the length of movies over the years.
-Q5.Which Genre is holding the maximum number of movies ?
-Q6. How is budget related with profitability or popularity
-Q7. How popularity and movie ratings are related
-Q8. How profitability and movie ratings are related ?
-Q9. Relationship between popularity and profitability
+1. How are old movies getting rated over time ?
+2. How is the industry performing over the years ?¶
+3. Trend for number of movies.
+4. Relation between the length of movies over the years.
+5.Which Genre is holding the maximum number of movies ?
+6. How is budget related with profitability or popularity
+7. How popularity and movie ratings are related
+8. How profitability and movie ratings are related ?
+9. Relationship between popularity and profitability
 # Observations & Findings
 The rating of the movies are depricating over the years. In other words we can say that newer the movies are, poorer the ratings it is receiving.
 The number of movies have increased significantly over the years. The maximum number of movies were released in the year 2011. This can happen due to various aspects,
