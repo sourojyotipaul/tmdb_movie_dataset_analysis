@@ -26,6 +26,6 @@ The number of movies have increased significantly over the years. The maximum nu
 1. Technological advancement
 2. Increase in budget and profitability over the years
 3. Rise in quality and quantity of audience and market
-The length of movies over the years have decreased.
-Drama is a very imortant genre, the maximum number of films are made under this very genre or category only.
-Budget - popularity, Budget - profitability are related with eachother in a very linear fashion. Their trend is also increasing gradually. Which means increase in budget increases popularity and increase in popularity increases profitability. Hence it means they are directly proportional in nathure.
+4. The length of movies over the years have decreased.
+5. Drama is a very imortant genre, the maximum number of films are made under this very genre or category only.
+6. Budget - popularity, Budget - profitability are related with eachother in a very linear fashion. Their trend is also increasing gradually. Which means increase in budget increases popularity and increase in popularity increases profitability. Hence it means they are directly proportional in nathure.
